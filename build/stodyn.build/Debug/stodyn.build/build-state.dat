@@ -1,0 +1,3164 @@
+Tstodyn
+v5
+r1
+cCheck dependencies
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/main.o /Users/seto/dev/stodyn/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts-matrix.o /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stokes.o /Users/seto/dev/stodyn/stokes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/libiter.o /Users/seto/dev/stodyn/libiter.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts.o /Users/seto/dev/stodyn/ewald-3fts.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody.o /Users/seto/dev/stodyn/twobody.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody-slip.o /Users/seto/dev/stodyn/twobody-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bench.o /Users/seto/dev/stodyn/bench.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/f.o /Users/seto/dev/stodyn/f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ft.o /Users/seto/dev/stodyn/ft.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/fts.o /Users/seto/dev/stodyn/fts.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald.o /Users/seto/dev/stodyn/ewald.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub.o /Users/seto/dev/stodyn/lub.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/two-body-res.o /Users/seto/dev/stodyn/two-body-res.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/matrix.o /Users/seto/dev/stodyn/matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/non-ewald.o /Users/seto/dev/stodyn/non-ewald.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/minv-poly.o /Users/seto/dev/stodyn/minv-poly.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/dgetri_c.o /Users/seto/dev/stodyn/dgetri_c.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub-matrix.o /Users/seto/dev/stodyn/lub-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/steepest.o /Users/seto/dev/stodyn/steepest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg.o /Users/seto/dev/stodyn/cg.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cgs.o /Users/seto/dev/stodyn/cgs.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bicgstab.o /Users/seto/dev/stodyn/bicgstab.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg_.o /Users/seto/dev/stodyn/cg_.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/gmres.o /Users/seto/dev/stodyn/gmres.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bi-cgstab.o /Users/seto/dev/stodyn/bi-cgstab.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/orthomin.o /Users/seto/dev/stodyn/orthomin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/myblas.o /Users/seto/dev/stodyn/myblas.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bonds.o /Users/seto/dev/stodyn/bonds.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA-slip.o /Users/seto/dev/stodyn/XA-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA.o /Users/seto/dev/stodyn/XA.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC-slip.o /Users/seto/dev/stodyn/XC-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC.o /Users/seto/dev/stodyn/XC.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG-slip.o /Users/seto/dev/stodyn/XG-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG.o /Users/seto/dev/stodyn/XG.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM-slip.o /Users/seto/dev/stodyn/XM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM.o /Users/seto/dev/stodyn/XM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XP.o /Users/seto/dev/stodyn/XP.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XQ.o /Users/seto/dev/stodyn/XQ.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA-slip.o /Users/seto/dev/stodyn/YA-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA.o /Users/seto/dev/stodyn/YA.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB-slip.o /Users/seto/dev/stodyn/YB-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB.o /Users/seto/dev/stodyn/YB.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC-slip.o /Users/seto/dev/stodyn/YC-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC.o /Users/seto/dev/stodyn/YC.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG-slip.o /Users/seto/dev/stodyn/YG-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG.o /Users/seto/dev/stodyn/YG.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH-slip.o /Users/seto/dev/stodyn/YH-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH.o /Users/seto/dev/stodyn/YH.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM-slip.o /Users/seto/dev/stodyn/YM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM.o /Users/seto/dev/stodyn/YM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM-slip.o /Users/seto/dev/stodyn/ZM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM.o /Users/seto/dev/stodyn/ZM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/system.o /Users/seto/dev/stodyn/system.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft-matrix.o /Users/seto/dev/stodyn/ewald-3ft-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft.o /Users/seto/dev/stodyn/ewald-3ft.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bond.o /Users/seto/dev/stodyn/bond.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o /Users/seto/dev/stodyn/particle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/grid.o /Users/seto/dev/stodyn/grid.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/contable.o /Users/seto/dev/stodyn/contable.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sparticle.o /Users/seto/dev/stodyn/sparticle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sbond.o /Users/seto/dev/stodyn/sbond.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/smallmatrix.o /Users/seto/dev/stodyn/smallmatrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/demsystem.o /Users/seto/dev/stodyn/demsystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/quaternion.o /Users/seto/dev/stodyn/quaternion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/torqueBlanceMotion.o /Users/seto/dev/stodyn/torqueBlanceMotion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSimulation.o /Users/seto/dev/stodyn/testSimulation.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSystem.o /Users/seto/dev/stodyn/testSystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sdsystem.o /Users/seto/dev/stodyn/sdsystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o /Users/seto/dev/stodyn/testParticle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cAnalyze /Users/seto/dev/stodyn/main.cpp
+cAnalyze /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp
+cLd /Users/seto/dev/stodyn/build/Debug/stodyn normal x86_64
+cAnalyze /Users/seto/dev/stodyn/stokes.cpp
+
+N/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000004E991D1F00000000000064D0
+t1318657311
+s25808
+
+N/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.h
+c000000004E2622D6000000000000022B
+t1311122134
+s555
+
+N/Users/seto/bin/stodyn
+t1332263114
+s7750280
+
+N/Users/seto/dev/stodyn/XA-slip.cpp
+c000000004C3EEE7800000000001385B7
+t1279192696
+s1279415
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/XA.cpp
+c000000004C3EEE790000000000075792
+t1279192697
+s481170
+i<cstdio>
+
+N/Users/seto/dev/stodyn/XC-slip.cpp
+c000000004C3EEE770000000000002A6E
+t1279192695
+s10862
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/XC.cpp
+c000000004C3EEE7900000000000AC48E
+t1279192697
+s705678
+i<cstdio>
+
+N/Users/seto/dev/stodyn/XG-slip.cpp
+c000000004C3EEE770000000000103594
+t1279192695
+s1062292
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/XG.cpp
+c000000004C3EEE790000000000072566
+t1279192697
+s468326
+i<cstdio>
+
+N/Users/seto/dev/stodyn/XM-slip.cpp
+c000000004C3EEE7700000000000B45E9
+t1279192695
+s738793
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/XM.cpp
+c000000004C3EEE79000000000007420E
+t1279192697
+s475662
+i<cstdio>
+
+N/Users/seto/dev/stodyn/XP.cpp
+c000000004C3EEE79000000000003442C
+t1279192697
+s214060
+i<cstdio>
+
+N/Users/seto/dev/stodyn/XQ.cpp
+c000000004C3EEE79000000000003356A
+t1279192697
+s210282
+i<cstdio>
+
+N/Users/seto/dev/stodyn/YA-slip.cpp
+c000000004C3EEE78000000000014ED04
+t1279192696
+s1371396
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/YA.cpp
+c000000004C3EEE78000000000007F6B5
+t1279192696
+s521909
+i<cstdio>
+
+N/Users/seto/dev/stodyn/YB-slip.cpp
+c000000004C3EEE7700000000000C3A40
+t1279192695
+s801344
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/YB.cpp
+c000000004C3EEE7800000000000804AC
+t1279192696
+s525484
+i<cstdio>
+
+N/Users/seto/dev/stodyn/YC-slip.cpp
+c000000004C3EEE77000000000006261C
+t1279192695
+s402972
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/YC.cpp
+c000000004C3EEE78000000000007FB61
+t1279192696
+s523105
+i<cstdio>
+
+N/Users/seto/dev/stodyn/YG-slip.cpp
+c000000004C3EEE7700000000001116D8
+t1279192695
+s1119960
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/YG.cpp
+c000000004C3EEE78000000000007C1F5
+t1279192696
+s508405
+i<cstdio>
+
+N/Users/seto/dev/stodyn/YH-slip.cpp
+c000000004C3EEE770000000000088AA6
+t1279192695
+s559782
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/YH.cpp
+c000000004C3EEE78000000000007B056
+t1279192696
+s503894
+i<cstdio>
+
+N/Users/seto/dev/stodyn/YM-slip.cpp
+c000000004C3EEE77000000000008C35B
+t1279192695
+s574299
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/YM.cpp
+c000000004C3EEE780000000000083839
+t1279192696
+s538681
+i<cstdio>
+
+N/Users/seto/dev/stodyn/ZM-slip.cpp
+c000000004C3EEE770000000000008384
+t1279192695
+s33668
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/ZM.cpp
+c000000004C3EEE780000000000084E51
+t1279192696
+s544337
+i<cstdio>
+
+N/Users/seto/dev/stodyn/bench.cpp
+c000000004C3EEE7700000000000007E6
+t1279192695
+s2022
+i<cstdlib>
+i<sys/types.h>
+i<sys/time.h>
+i<sys/resource.h>
+i"bench.h"
+
+N/Users/seto/dev/stodyn/bench.h
+c000000004BF64AD8000000000000053B
+t1274432216
+s1339
+
+N/Users/seto/dev/stodyn/bi-cgstab.cpp
+c000000004D788DE3000000000001079D
+t1299746275
+s67485
+i"config.h"
+i<cstdio>
+i<cmath>
+i<cstdlib>
+i"memory-check.h"
+i"libiter.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+i"bi-cgstab.h"
+
+N/Users/seto/dev/stodyn/bi-cgstab.h
+c000000004BF64AD700000000000019AA
+t1274432215
+s6570
+
+N/Users/seto/dev/stodyn/bicgstab.cpp
+c000000004C3EEE730000000000002296
+t1279192691
+s8854
+i"config.h"
+i<cstdio>
+i<cstdlib>
+i"libiter.h"
+i"memory-check.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+
+N/Users/seto/dev/stodyn/bicgstab.h
+c000000004BF64AD80000000000000691
+t1274432216
+s1681
+
+N/Users/seto/dev/stodyn/bond.cpp
+c000000004F68A94B0000000000002028
+t1332259147
+s8232
+i"bond.h"
+
+N/Users/seto/dev/stodyn/bond.h
+c000000004F68773100000000000009CE
+t1332246321
+s2510
+i"common.h"
+i<cstdlib>
+i<cmath>
+i"contable.h"
+i"particle.h"
+i"system.h"
+i"demsystem.h"
+i"grid.h"
+
+N/Users/seto/dev/stodyn/bonds.cpp
+c000000004C3EEE7700000000000027E8
+t1279192695
+s10216
+i<cstdlib>
+i<cmath>
+i"memory-check.h"
+i"stokes.h"
+i"bonds.h"
+
+N/Users/seto/dev/stodyn/bonds.h
+c000000004BF64AD7000000000000112A
+t1274432215
+s4394
+i"stokes.h"
+
+N/Users/seto/dev/stodyn/build/Debug/stodyn
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XP.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XQ.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bench.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bi-cgstab.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bicgstab.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bond.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bonds.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg_.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cgs.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/contable.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/demsystem.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/dgetri_c.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft-matrix.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts-matrix.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/f.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ft.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/fts.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/gmres.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/grid.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/libiter.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub-matrix.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/matrix.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/minv-poly.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/myblas.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/non-ewald.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/orthomin.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/quaternion.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sbond.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sdsystem.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/smallmatrix.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sparticle.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/steepest.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stodyn.LinkFileList
+c000000004F68E8CF000000000000194D
+t1332275407
+s6477
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stokes.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/system.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSimulation.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSystem.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/torqueBlanceMotion.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/two-body-res.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody-slip.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody.o
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XA-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XA.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XC-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XC.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XG-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XG.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XM-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XM.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XP.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/XQ.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YA-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YA.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YB-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YB.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YC-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YC.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YG-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YG.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YH-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YH.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YM-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/YM.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ZM-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ZM.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/bench.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/bi-cgstab.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/bicgstab.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/bond.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/bonds.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/cg.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/cg_.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/cgs.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/contable.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/demsystem.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/dgetri_c.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ewald-3ft-matrix.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ewald-3ft.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ewald-3fts-matrix.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ewald-3fts.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ewald.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/f.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ft.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/fts.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/gmres.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/grid.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/libiter.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/lub-matrix.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/lub.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/main.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/matrix.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/minv-poly.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/myblas.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/non-ewald.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/orthomin.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/particle.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/quaternion.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/sbond.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/sdsystem.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/smallmatrix.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/sparticle.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/steepest.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/stokes.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/system.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/testParticle.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/testSimulation.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/testSystem.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/torqueBlanceMotion.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/two-body-res.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/twobody-slip.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/twobody.plist
+t2
+s0
+
+N/Users/seto/dev/stodyn/calcDragAndTorque.h
+c000000004F68A94B0000000000000D88
+t1332259147
+s3464
+i"system.h"
+
+N/Users/seto/dev/stodyn/cg.cpp
+c000000004D788F88000000000000199E
+t1299746696
+s6558
+i"config.h"
+i<cstdio>
+i<cstdlib>
+i"libiter.h"
+i"memory-check.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+
+N/Users/seto/dev/stodyn/cg.h
+c000000004BF64AD700000000000006D0
+t1274432215
+s1744
+
+N/Users/seto/dev/stodyn/cg_.cpp
+c000000004D788DE3000000000000312B
+t1299746275
+s12587
+i"config.h"
+i<cstdio>
+i<cstdlib>
+i"libiter.h"
+i"memory-check.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+
+N/Users/seto/dev/stodyn/cg_.h
+c000000004BF64AD800000000000005AF
+t1274432216
+s1455
+
+N/Users/seto/dev/stodyn/cgs.cpp
+c000000004D788DE300000000000022BA
+t1299746275
+s8890
+i"config.h"
+i<cstdio>
+i<cstdlib>
+i"libiter.h"
+i"memory-check.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+
+N/Users/seto/dev/stodyn/cgs.h
+c000000004BF64AD80000000000000691
+t1274432216
+s1681
+
+N/Users/seto/dev/stodyn/common.h
+c000000004F68BC810000000000000960
+t1332264065
+s2400
+i<cmath>
+i<iostream>
+i<iomanip>
+i<fstream>
+i<vector>
+i<cstdlib>
+i"vec3d.h"
+
+N/Users/seto/dev/stodyn/config.h
+c000000004D7512EA00000000000008B1
+t1299518186
+s2225
+
+N/Users/seto/dev/stodyn/contable.cpp
+c000000004E29284F00000000000003C9
+t1311320143
+s969
+i"contable.h"
+i<iostream>
+i<iomanip>
+
+N/Users/seto/dev/stodyn/contable.h
+c000000004E29262A000000000000025E
+t1311319594
+s606
+i<cmath>
+i<cstdlib>
+i"my_utilities.h"
+
+N/Users/seto/dev/stodyn/dem.h
+c000000004F689C6200000000000011B3
+t1332255842
+s4531
+i"demsystem.h"
+i"common.h"
+i"bond.h"
+i"particle.h"
+i"system.h"
+i<vector>
+
+N/Users/seto/dev/stodyn/demsystem.cpp
+c000000004F68C5A400000000000097FE
+t1332266404
+s38910
+i"demsystem.h"
+i<iostream>
+i<map>
+
+N/Users/seto/dev/stodyn/demsystem.h
+c000000004F68837E0000000000001625
+t1332249470
+s5669
+i<string>
+i<iomanip>
+i<iostream>
+i<fstream>
+i"system.h"
+i"vec3d.h"
+i"bond.h"
+i"particle.h"
+i"grid.h"
+i"quaternion.h"
+i"common.h"
+
+N/Users/seto/dev/stodyn/dgetri_c.cpp
+c000000004D788DE30000000000003390
+t1299746275
+s13200
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i<atlas/clapack.h>
+
+N/Users/seto/dev/stodyn/dgetri_c.h
+c000000004BF64AD800000000000002B8
+t1274432216
+s696
+
+N/Users/seto/dev/stodyn/ewald-3ft-matrix.cpp
+c000000004C3EEE76000000000000556E
+t1279192694
+s21870
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+i"dgetri_c.h"
+i"stokes.h"
+i"bench.h"
+i"ft.h"
+i"f.h"
+i"ewald.h"
+i"matrix.h"
+i"lub-matrix.h"
+i"ewald-3ft-matrix.h"
+
+N/Users/seto/dev/stodyn/ewald-3ft-matrix.h
+c000000004722B57A0000000000001286
+t1193457018
+s4742
+
+N/Users/seto/dev/stodyn/ewald-3ft.cpp
+c000000004C3EEE6D0000000000005144
+t1279192685
+s20804
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"libiter.h"
+i"memory-check.h"
+i"bench.h"
+i"stokes.h"
+i"ft.h"
+i"f.h"
+i"ewald.h"
+i"lub.h"
+i"ewald-3ft.h"
+
+N/Users/seto/dev/stodyn/ewald-3ft.h
+c000000004722B4DE000000000000129A
+t1193456862
+s4762
+
+N/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp
+c000000004E8082F6000000000000BB19
+t1317044982
+s47897
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+i"dgetri_c.h"
+i"stokes.h"
+i"bench.h"
+i"fts.h"
+i"ft.h"
+i"f.h"
+i"ewald.h"
+i"matrix.h"
+i"lub-matrix.h"
+i"ewald-3fts-matrix.h"
+
+N/Users/seto/dev/stodyn/ewald-3fts-matrix.h
+c000000004E37ECB700000000000024ED
+t1312287927
+s9453
+
+N/Users/seto/dev/stodyn/ewald-3fts.cpp
+c000000004C3EEE760000000000008524
+t1279192694
+s34084
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"libiter.h"
+i"memory-check.h"
+i"bench.h"
+i"stokes.h"
+i"fts.h"
+i"ft.h"
+i"f.h"
+i"ewald.h"
+i"lub.h"
+i"ewald-3fts.h"
+
+N/Users/seto/dev/stodyn/ewald-3fts.h
+c000000004BF64AD80000000000002385
+t1274432216
+s9093
+
+N/Users/seto/dev/stodyn/ewald.cpp
+c000000004C3EEE76000000000000EF32
+t1279192694
+s61234
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+i"stokes.h"
+i"bench.h"
+i"f.h"
+i"ft.h"
+i"fts.h"
+i"matrix.h"
+i"non-ewald.h"
+i"ewald.h"
+
+N/Users/seto/dev/stodyn/ewald.h
+c000000004BF64AD70000000000001627
+t1274432215
+s5671
+
+N/Users/seto/dev/stodyn/f.cpp
+c000000004C3EEE760000000000004253
+t1279192694
+s16979
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i"two-body-res.h"
+i"stokes.h"
+i"minv-poly.h"
+i"twobody.h"
+i"f.h"
+
+N/Users/seto/dev/stodyn/f.h
+c000000004BF64AD80000000000001D90
+t1274432216
+s7568
+
+N/Users/seto/dev/stodyn/ft.cpp
+c000000004C3EEE760000000000005739
+t1279192694
+s22329
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i"two-body-res.h"
+i"stokes.h"
+i"minv-poly.h"
+i"f.h"
+i"twobody.h"
+i"ft.h"
+
+N/Users/seto/dev/stodyn/ft.h
+c000000004BF64AD8000000000000215D
+t1274432216
+s8541
+
+N/Users/seto/dev/stodyn/fts.cpp
+c000000004CA33C95000000000000F346
+t1285766293
+s62278
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i"two-body-res.h"
+i"stokes.h"
+i"minv-poly.h"
+i"f.h"
+i"ft.h"
+i"twobody.h"
+i"fts.h"
+
+N/Users/seto/dev/stodyn/fts.h
+c000000004BF64AD80000000000002759
+t1274432216
+s10073
+
+N/Users/seto/dev/stodyn/gmres.cpp
+c000000004D788DE30000000000006E0F
+t1299746275
+s28175
+i"config.h"
+i<cstdlib>
+i<cstdio>
+i<cmath>
+i"libiter.h"
+i"memory-check.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+i"gmres.h"
+
+N/Users/seto/dev/stodyn/gmres.h
+c000000004BF64AD80000000000000DF4
+t1274432216
+s3572
+
+N/Users/seto/dev/stodyn/grid.cpp
+c000000004F68E8200000000000000CE8
+t1332275232
+s3304
+i"grid.h"
+i<algorithm>
+
+N/Users/seto/dev/stodyn/grid.h
+c000000004E806AF700000000000005E8
+t1317038839
+s1512
+i<vector>
+i<cmath>
+i<cstdlib>
+i<algorithm>
+i<map>
+i"common.h"
+i"vec3d.h"
+i"particle.h"
+
+N/Users/seto/dev/stodyn/libiter.cpp
+c000000004CA357E70000000000002509
+t1285773287
+s9481
+i<cstdio>
+i<cstdlib>
+i<string.h>
+i"libiter.h"
+i"steepest.h"
+i"cg.h"
+i"cgs.h"
+i"bicgstab.h"
+i"cg_.h"
+i"gmres.h"
+i"bi-cgstab.h"
+i"orthomin.h"
+i"memory-check.h"
+
+N/Users/seto/dev/stodyn/libiter.h
+c000000004C3EEE79000000000000156F
+t1279192697
+s5487
+i<cstdio>
+
+N/Users/seto/dev/stodyn/lub-matrix.cpp
+c000000004C3EEE7700000000000029C5
+t1279192695
+s10693
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"stokes.h"
+i"bonds.h"
+i"f.h"
+i"ft.h"
+i"fts.h"
+i"matrix.h"
+i"lub.h"
+i"lub-matrix.h"
+
+N/Users/seto/dev/stodyn/lub-matrix.h
+c000000004BF64AD80000000000000866
+t1274432216
+s2150
+
+N/Users/seto/dev/stodyn/lub.cpp
+c000000004C3EEE760000000000003D32
+t1279192694
+s15666
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i"stokes.h"
+i"f.h"
+i"ft.h"
+i"fts.h"
+i"twobody-slip.h"
+i"lub.h"
+
+N/Users/seto/dev/stodyn/lub.h
+c000000004BF64AD80000000000000BCF
+t1274432216
+s3023
+
+N/Users/seto/dev/stodyn/main.cpp
+c000000004F68AF480000000000000AB1
+t1332260680
+s2737
+i<string>
+i<iomanip>
+i<iostream>
+i<fstream>
+i"my_utilities.h"
+i"system.h"
+i"vec3d.h"
+i"dem.h"
+i"common.h"
+i"rigidClusterAnalysis.h"
+i"torqueBlanceMotion.h"
+i"calcDragAndTorque.h"
+i"testSimulation.h"
+
+N/Users/seto/dev/stodyn/matrix.cpp
+c000000004E25DCBE0000000000002964
+t1311104190
+s10596
+i"config.h"
+i<cstdio>
+i<cstdlib>
+i"dgetri_c.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"dgemm_c.h"
+i"dgemv_c.h"
+i"memory-check.h"
+i"matrix.h"
+
+N/Users/seto/dev/stodyn/matrix.h
+c000000004BF64AD80000000000000F2E
+t1274432216
+s3886
+
+N/Users/seto/dev/stodyn/memory-check.h
+c000000004BF64AD80000000000000438
+t1274432216
+s1080
+
+N/Users/seto/dev/stodyn/minv-poly.cpp
+c000000004C3EEE770000000000005456
+t1279192695
+s21590
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"dgetri_c.h"
+i"non-ewald.h"
+i"minv-poly.h"
+
+N/Users/seto/dev/stodyn/minv-poly.h
+c000000004BF64AD80000000000001683
+t1274432216
+s5763
+i"twobody.h"
+
+N/Users/seto/dev/stodyn/my_utilities.h
+c000000004F68847E000000000000044F
+t1332249726
+s1103
+i<fstream>
+i<iomanip>
+i<sys/time.h>
+
+N/Users/seto/dev/stodyn/myblas.cpp
+c000000004C3ED81800000000000025E5
+t1279186968
+s9701
+i<cmath>
+i"myblas.h"
+
+N/Users/seto/dev/stodyn/myblas.h
+c000000004BF64AD80000000000000E5F
+t1274432216
+s3679
+
+N/Users/seto/dev/stodyn/non-ewald.cpp
+c000000004CA35073000000000000454F
+t1285771379
+s17743
+i<cmath>
+i<cstdio>
+i<cstdlib>
+i"memory-check.h"
+i"stokes.h"
+i"f.h"
+i"ft.h"
+i"fts.h"
+i"matrix.h"
+i"non-ewald.h"
+
+N/Users/seto/dev/stodyn/non-ewald.h
+c000000004BF64AD80000000000001407
+t1274432216
+s5127
+i"stokes.h"
+
+N/Users/seto/dev/stodyn/orthomin.cpp
+c000000004D788DE300000000000043F9
+t1299746275
+s17401
+i"config.h"
+i<cstdio>
+i<cmath>
+i<cstdlib>
+i"memory-check.h"
+i"libiter.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+i"orthomin.h"
+
+N/Users/seto/dev/stodyn/orthomin.h
+c000000004BF64AD80000000000000C27
+t1274432216
+s3111
+
+N/Users/seto/dev/stodyn/particle.cpp
+c000000004ECB9C980000000000000A0B
+t1321966744
+s2571
+i"particle.h"
+
+N/Users/seto/dev/stodyn/particle.h
+c000000004F68E7E60000000000000E39
+t1332275174
+s3641
+i"demsystem.h"
+i"system.h"
+i"common.h"
+i"grid.h"
+i"bond.h"
+i"vec3d.h"
+i"quaternion.h"
+i"contable.h"
+
+N/Users/seto/dev/stodyn/quaternion.cpp
+c000000004E550B4500000000000000A1
+t1314196293
+s161
+i<iostream>
+
+N/Users/seto/dev/stodyn/quaternion.h
+c000000004EC93A640000000000000FD1
+t1321810532
+s4049
+i"vec3d.h"
+
+N/Users/seto/dev/stodyn/rigidClusterAnalysis.h
+c000000004F68A9730000000000001C87
+t1332259187
+s7303
+i<iostream>
+i<iomanip>
+i<fstream>
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i<vector>
+i<sys/time.h>
+i"system.h"
+i"stokes.h"
+i"ewald-3fts.h"
+i"libiter.h"
+i"vec3d.h"
+i"my_utilities.h"
+i"common.h"
+i"sparticle.h"
+i"sbond.h"
+
+N/Users/seto/dev/stodyn/sbond.cpp
+c000000004CB58E8C0000000000000153
+t1286966924
+s339
+i"sbond.h"
+
+N/Users/seto/dev/stodyn/sbond.h
+c000000004E8C5F0C00000000000002D6
+t1317822220
+s726
+i"common.h"
+i<cstdlib>
+i<cmath>
+i<iomanip>
+i"contable.h"
+
+N/Users/seto/dev/stodyn/sdsystem.cpp
+c000000004F68B89C0000000000000319
+t1332263068
+s793
+i<iostream>
+i<iomanip>
+i"sdsystem.h"
+
+N/Users/seto/dev/stodyn/sdsystem.h
+c000000004F68B8AD00000000000003F4
+t1332263085
+s1012
+i<string>
+i"vec3d.h"
+
+N/Users/seto/dev/stodyn/smallmatrix.cpp
+c000000004E1EC0CF00000000000000A0
+t1310638287
+s160
+i"smallmatrix.h"
+
+N/Users/seto/dev/stodyn/smallmatrix.h
+c000000004E806D670000000000000D36
+t1317039463
+s3382
+i<iostream>
+i<iomanip>
+i<cmath>
+i"my_utilities.h"
+
+N/Users/seto/dev/stodyn/sparticle.cpp
+c000000004CB55832000000000000009E
+t1286953010
+s158
+i"sparticle.h"
+
+N/Users/seto/dev/stodyn/sparticle.h
+c000000004D777E7A00000000000003AB
+t1299676794
+s939
+i<vector>
+i"sbond.h"
+i"vec3d.h"
+
+N/Users/seto/dev/stodyn/steepest.cpp
+c000000004D788DE30000000000001652
+t1299746275
+s5714
+i"config.h"
+i<cstdio>
+i<cstdlib>
+i"libiter.h"
+i"memory-check.h"
+i<Accelerate/Accelerate.h>
+i<atlas/cblas.h>
+i"myblas.h"
+
+N/Users/seto/dev/stodyn/steepest.h
+c000000004BF64AD800000000000006A5
+t1274432216
+s1701
+
+N/Users/seto/dev/stodyn/stokes.cpp
+c000000004CF677FF0000000000007A04
+t1291220991
+s31236
+i<cstdlib>
+i<cmath>
+i"libiter.h"
+i"memory-check.h"
+i"twobody.h"
+i"twobody-slip.h"
+i"stokes.h"
+
+N/Users/seto/dev/stodyn/stokes.h
+c000000004D94A1260000000000002656
+t1301586214
+s9814
+i<cstdio>
+i"twobody.h"
+
+N/Users/seto/dev/stodyn/system.cpp
+c000000004F68907E000000000000A19E
+t1332252798
+s41374
+i"system.h"
+i<map>
+i<algorithm>
+i<ctime>
+i<fstream>
+i"memory-check.h"
+i"stokes.h"
+i"bench.h"
+i"fts.h"
+i"ft.h"
+i"f.h"
+i"dgetri_c.h"
+i"ewald.h"
+i"matrix.h"
+i"lub-matrix.h"
+i"ewald-3fts-matrix.h"
+i"ewald-3ft-matrix.h"
+i<Accelerate/Accelerate.h>
+
+N/Users/seto/dev/stodyn/system.h
+c000000004F688F720000000000001397
+t1332252530
+s5015
+i"stokes.h"
+i"ewald-3fts.h"
+i"ewald-3fts-matrix.h"
+i"ewald-3ft.h"
+i"libiter.h"
+i"vec3d.h"
+i"particle.h"
+i"bond.h"
+i"common.h"
+i"smallmatrix.h"
+
+N/Users/seto/dev/stodyn/testParticle.cpp
+c000000004F68E8CE0000000000000265
+t1332275406
+s613
+i<iostream>
+i"testParticle.h"
+
+N/Users/seto/dev/stodyn/testParticle.h
+c000000004F68E8C20000000000000E90
+t1332275394
+s3728
+i"testSystem.h"
+i"sdsystem.h"
+i"common.h"
+i"grid.h"
+i"bond.h"
+i"vec3d.h"
+i"quaternion.h"
+i"contable.h"
+
+N/Users/seto/dev/stodyn/testSimulation.cpp
+c000000004F68BE620000000000000380
+t1332264546
+s896
+i<iostream>
+i<iomanip>
+i"testSimulation.h"
+i"sdsystem.h"
+
+N/Users/seto/dev/stodyn/testSimulation.h
+c000000004F68AC9C000000000000014E
+t1332259996
+s334
+i"system.h"
+i"testSystem.h"
+
+N/Users/seto/dev/stodyn/testSystem.cpp
+c000000004F68E82F000000000000197B
+t1332275247
+s6523
+i<iostream>
+i<fstream>
+i<vector>
+i<string>
+i<map>
+i"testSystem.h"
+i"vec3d.h"
+i"contable.h"
+i"grid.h"
+
+N/Users/seto/dev/stodyn/testSystem.h
+c000000004F68C58700000000000008F8
+t1332266375
+s2296
+i<string>
+i"vec3d.h"
+i"sdsystem.h"
+i"common.h"
+i"bond.h"
+i"grid.h"
+i"testParticle.h"
+
+N/Users/seto/dev/stodyn/torqueBlanceMotion.cpp
+c000000004F6896C80000000000000988
+t1332254408
+s2440
+i<iostream>
+i"torqueBlanceMotion.h"
+
+N/Users/seto/dev/stodyn/torqueBlanceMotion.h
+c000000004F689C5B00000000000002C7
+t1332255835
+s711
+i"system.h"
+
+N/Users/seto/dev/stodyn/two-body-res.cpp
+c000000004C3ED9A30000000000005EDB
+t1279187363
+s24283
+i<cmath>
+i"two-body-res.h"
+
+N/Users/seto/dev/stodyn/two-body-res.h
+c000000004BF64AD800000000000004C8
+t1274432216
+s1224
+
+N/Users/seto/dev/stodyn/twobody-slip.cpp
+c000000004C3EEE76000000000000BB9F
+t1279192694
+s48031
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i"stokes.h"
+i"twobody.h"
+i"minv-poly.h"
+i"memory-check.h"
+i"twobody-slip.h"
+i"f.h"
+i"ft.h"
+i"fts.h"
+
+N/Users/seto/dev/stodyn/twobody-slip.h
+c000000004BF64AD80000000000003F27
+t1274432216
+s16167
+i"stokes.h"
+
+N/Users/seto/dev/stodyn/twobody.cpp
+c000000004C3EEE76000000000000D3F8
+t1279192694
+s54264
+i<cstdio>
+i<cstdlib>
+i<cmath>
+i"memory-check.h"
+i"twobody.h"
+
+N/Users/seto/dev/stodyn/twobody.h
+c000000004BF64AD80000000000002F74
+t1274432216
+s12148
+
+N/Users/seto/dev/stodyn/vec3d.h
+c000000004F15A178000000000000101A
+t1326817656
+s4122
+i<iostream>
+i<iomanip>
+i<cmath>
+
+N/usr/include/string.h
+c000000004E360D4E0000000000001A3A
+t1312165198
+s6714
+
+N/usr/include/sys/resource.h
+c000000004F0F9B080000000000002577
+t1326422792
+s9591
+
+N/usr/include/sys/time.h
+c000000004F0F9B0A0000000000001E64
+t1326422794
+s7780
+
+N/usr/include/sys/types.h
+c000000004F0F9B0B0000000000002905
+t1326422795
+s10501
+
+CAnalyze /Users/seto/dev/stodyn/XA-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XA.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XC-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XC.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XG-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XG.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XM-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XM.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XP.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/XQ.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YA-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YA.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YB-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YB.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YC-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YC.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YG-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YG.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YH-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YH.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YM-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/YM.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/ZM-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/ZM.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/bench.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/bi-cgstab.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/bicgstab.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/bond.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/bonds.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/cg.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/cg_.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/cgs.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/contable.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/demsystem.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/dgetri_c.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/ewald-3ft-matrix.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/ewald-3ft.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp
+s353968508.998048
+e353968510.432223
+r1
+xAnalyze
+x/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp
+o/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp:1674:9: warning: Value stored to 'n11' during its initialization is never read
+o    int n11 = np * 11;
+o        ^     ~~~~~~~
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Analyze /Users/seto/dev/stodyn/ewald-3fts-matrix.cppba9fff7c2119b541^6ac26e7e2119b541^-190"/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp:1674:9: warning: Value stored to 'n11' during its initialization is never read    int n11 = np * 11;        ^     ~~~~~~~1 warning generated.1(35%IDEActivityLogAnalyzerResultMessage2@61"Value stored to 'n11' during its initialization is never read-353968510#18446744073709551615#0#1(38%IDEActivityLogAnalyzerEventStepMessage3@61"Value stored to 'n11' during its initialization is never read-353968510#18446744073709551615#0#-1#32"com.apple.dt.IDE.analyzer.result23%DVTTextDocumentLocation4@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^1673#8#1673#8#18446744073709551615#0#-2(4@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^1673#8#1673#11#18446744073709551615#0#4@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^1673#14#1673#21#18446744073709551615#0#-61"Value stored to 'n11' during its initialization is never read1#32"com.apple.dt.IDE.analyzer.result4@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^1673#8#1673#8#18446744073709551615#0#10"Dead store2(4@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^1673#8#1673#11#18446744073709551615#0#4@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^1673#14#1673#21#18446744073709551615#0#-19"Dead initialization0#0#0#-19%DVTDocumentLocation5@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^1472"Analyze ewald-3fts-matrix.cpp    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DOSX=1 -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug --analyze /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/ewald-3fts-matrix.plist36"9B5210A7-7FB4-4CEF-8E5C-CBBD181C96B7-
+
+CAnalyze /Users/seto/dev/stodyn/ewald-3fts.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/ewald.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/f.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/ft.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/fts.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/gmres.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/grid.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/libiter.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/lub-matrix.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/lub.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/main.cpp
+s353968508.897588
+e353968510.518446
+r1
+xAnalyze
+x/Users/seto/dev/stodyn/main.cpp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Analyze /Users/seto/dev/stodyn/main.cpp2de8e57c2119b541^d3a4d07e2119b541^---0#0#0#-19%DVTDocumentLocation2@47"file://localhost/Users/seto/dev/stodyn/main.cpp0000000000000000^1433"Analyze main.cpp    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DOSX=1 -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug --analyze /Users/seto/dev/stodyn/main.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/main.plist36"B0DE37A8-A90D-411F-955D-BD6D441706D6-
+
+CAnalyze /Users/seto/dev/stodyn/matrix.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/minv-poly.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/myblas.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/non-ewald.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/orthomin.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/particle.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/quaternion.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/sbond.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/sdsystem.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/smallmatrix.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/sparticle.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/steepest.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/stokes.cpp
+s353968510.519758
+e353968521.402697
+r1
+xAnalyze
+x/Users/seto/dev/stodyn/stokes.cpp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Analyze /Users/seto/dev/stodyn/stokes.cpp5b28857e2119b541^113a68892119b541^---0#0#0#-19%DVTDocumentLocation2@49"file://localhost/Users/seto/dev/stodyn/stokes.cpp0000000000000000^1439"Analyze stokes.cpp    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wno-newline-eof -Wc++11-extensions -DOSX=1 -fasm-blocks -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility=hidden -fvisibility-inlines-hidden -Wno-conversion -Wno-sign-conversion -Xclang -analyzer-disable-checker -Xclang deadcode.IdempotentOperations -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug --analyze /Users/seto/dev/stodyn/stokes.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/StaticAnalyzer/normal/x86_64/stokes.plist36"2466937F-0FFE-4EE6-B3B5-E5DD22262A29-
+
+CAnalyze /Users/seto/dev/stodyn/system.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/testParticle.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/testSimulation.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/testSystem.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/torqueBlanceMotion.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/two-body-res.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/twobody-slip.cpp
+r0
+
+CAnalyze /Users/seto/dev/stodyn/twobody.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XA-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XA.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XC-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XC.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XG-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XG.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XM-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XM.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XP.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/XQ.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YA-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YA.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YB-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YB.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YC-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YC.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YG-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YG.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YH-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YH.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YM-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/YM.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ZM-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ZM.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/bench.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/bi-cgstab.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/bicgstab.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/bond.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/bonds.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/cg.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/cg_.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/cgs.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/contable.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/demsystem.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/dgetri_c.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ewald-3ft-matrix.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ewald-3ft.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ewald-3fts.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ewald.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/f.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/ft.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/fts.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/gmres.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/grid.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/libiter.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/lub-matrix.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/lub.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/main.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/matrix.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/minv-poly.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/myblas.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/non-ewald.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/orthomin.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/particle.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/quaternion.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/sbond.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/sdsystem.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/smallmatrix.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/sparticle.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/steepest.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/stokes.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/system.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/testParticle.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/testSimulation.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/testSystem.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/torqueBlanceMotion.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/two-body-res.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/twobody-slip.cpp
+r0
+
+CBuild AST from /Users/seto/dev/stodyn/twobody.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbfef3b4e2019b541^878be04f2019b541^---0#1#0#--18"Check dependencies36"BACF43B9-3C9E-447C-9612-ADCEA077E469-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA-slip.o /Users/seto/dev/stodyn/XA-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968221.891305
+e353968284.898165
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA-slip.o
+x/Users/seto/dev/stodyn/XA-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/XA-slip.cpp9d48e45d2019b541^b823e89c2019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/XA-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA-slip.o XA-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XA-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA-slip.o36"E4E4C428-A7B7-42C9-8B1E-7853ED5ACDD0-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA.o /Users/seto/dev/stodyn/XA.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968222.272183
+e353968227.270178
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA.o
+x/Users/seto/dev/stodyn/XA.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/XA.cppc5c9455e2019b541^952a45632019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/XA.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA.o XA.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XA.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XA.o36"7DBDFBD3-3FFA-4275-A83B-C162B83BE4EE-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC-slip.o /Users/seto/dev/stodyn/XC-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968227.271549
+e353968227.792386
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC-slip.o
+x/Users/seto/dev/stodyn/XC-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/XC-slip.cpp9d9c45632019b541^45daca632019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/XC-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC-slip.o XC-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XC-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC-slip.o36"1C5A7632-E980-4AF0-B8C4-12A5CAB4FD5C-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC.o /Users/seto/dev/stodyn/XC.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968227.793716
+e353968232.741088
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC.o
+x/Users/seto/dev/stodyn/XC.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/XC.cppf548cb632019b541^35b8bd682019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/XC.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC.o XC.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XC.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XC.o36"84ACB451-3D5E-4028-84BE-5911E9700919-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG-slip.o /Users/seto/dev/stodyn/XG-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968232.742526
+e353968274.962880
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG-slip.o
+x/Users/seto/dev/stodyn/XG-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/XG-slip.cpp7b33be682019b541^118f18932019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/XG-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG-slip.o XG-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XG-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG-slip.o36"883FC512-EEBC-457E-A7BB-39AED4E45368-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG.o /Users/seto/dev/stodyn/XG.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968274.976616
+e353968279.938203
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG.o
+x/Users/seto/dev/stodyn/XG.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/XG.cppe929fa922019b541^3541f0972019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/XG.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG.o XG.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XG.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XG.o36"7A1DBB7A-DD0E-413F-8697-35E73BDFCC5A-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM-slip.o /Users/seto/dev/stodyn/XM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968279.939704
+e353968308.670543
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM-slip.o
+x/Users/seto/dev/stodyn/XM-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/XM-slip.cpp14b1f0972019b541^2aa9abb42019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/XM-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM-slip.o XM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XM-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM-slip.o36"A91F5B70-DFC7-4855-9AEF-55A51714433F-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM.o /Users/seto/dev/stodyn/XM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968284.933773
+e353968290.102432
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM.o
+x/Users/seto/dev/stodyn/XM.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/XM.cppb329ef9c2019b541^84481aa22019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/XM.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM.o XM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XM.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XM.o36"CB8E627E-646C-4F82-82A0-1A0768A4EE2C-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XP.o /Users/seto/dev/stodyn/XP.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968290.103897
+e353968292.053951
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XP.o
+x/Users/seto/dev/stodyn/XP.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/XP.cppf2b21aa22019b541^31d00da42019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/XP.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XP.o XP.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XP.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XP.o36"FB883F23-F786-420B-B775-8273AFA623EA-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XQ.o /Users/seto/dev/stodyn/XQ.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968292.055319
+e353968293.919480
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XQ.o
+x/Users/seto/dev/stodyn/XQ.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/XQ.cppaa430ea42019b541^0a67eba52019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/XQ.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XQ.o XQ.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/XQ.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/XQ.o36"7F35092E-88FC-4799-805C-F4FBB7FFF18A-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA-slip.o /Users/seto/dev/stodyn/YA-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968293.920972
+e353968337.279549
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA-slip.o
+x/Users/seto/dev/stodyn/YA-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/YA-slip.cpp8fe3eba52019b541^da9047d12019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/YA-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA-slip.o YA-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YA-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA-slip.o36"9617F51E-76BD-4441-9B77-4BEAE40C8F26-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA.o /Users/seto/dev/stodyn/YA.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968308.671935
+e353968313.527934
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA.o
+x/Users/seto/dev/stodyn/YA.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/YA.cpp541facb42019b541^593687b92019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/YA.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA.o YA.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YA.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YA.o36"A366B700-F3A6-44AA-9716-C46F2421BEAD-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB-slip.o /Users/seto/dev/stodyn/YB-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968313.529363
+e353968346.652460
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB-slip.o
+x/Users/seto/dev/stodyn/YB-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/YB-slip.cppdc9f87b92019b541^c007a7da2019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/YB-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB-slip.o YB-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YB-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB-slip.o36"4FF862B5-540F-4B07-8E91-5AE963B701F0-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB.o /Users/seto/dev/stodyn/YB.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968337.281068
+e353968341.040727
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB.o
+x/Users/seto/dev/stodyn/YB.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/YB.cpp831448d12019b541^bd6d0ad52019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/YB.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB.o YB.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YB.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YB.o36"F5FAA37D-1C74-42B4-9086-FDAE77E9FC6B-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC-slip.o /Users/seto/dev/stodyn/YC-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968341.042081
+e353968381.226000
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC-slip.o
+x/Users/seto/dev/stodyn/YC-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/YC-slip.cpp93df0ad52019b541^66db39fd2019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/YC-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC-slip.o YC-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YC-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC-slip.o36"D464A37A-272F-4C34-BD43-BE03517560BA-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC.o /Users/seto/dev/stodyn/YC.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968346.653853
+e353968352.615329
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC.o
+x/Users/seto/dev/stodyn/YC.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/YC.cpp3d7ea7da2019b541^dbc356e12019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/YC.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC.o YC.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YC.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YC.o36"EDC664AF-F162-4F4C-B122-FE7371F44EDB-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG-slip.o /Users/seto/dev/stodyn/YG-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968352.616717
+e353968414.424421
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG-slip.o
+x/Users/seto/dev/stodyn/YG-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/YG-slip.cpp2bfc9de02019b541^feb96c1e2119b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/YG-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG-slip.o YG-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YG-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG-slip.o36"AAA20915-0108-4F33-8C83-E8C97A598465-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG.o /Users/seto/dev/stodyn/YG.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968381.227385
+e353968385.745280
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG.o
+x/Users/seto/dev/stodyn/YG.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/YG.cppca4f3afd2019b541^decabe012119b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/YG.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG.o YG.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YG.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YG.o36"BBB4569F-ED5B-42C9-A8B2-5A01F6E4CFB6-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH-slip.o /Users/seto/dev/stodyn/YH-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968385.746715
+e353968499.230676
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH-slip.o
+x/Users/seto/dev/stodyn/YH-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/YH-slip.cpp1442bf012119b541^fb203b732119b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/YH-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH-slip.o YH-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YH-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH-slip.o36"2AF1D3B4-4E29-4FA1-B437-279EEBFCD553-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH.o /Users/seto/dev/stodyn/YH.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968414.425795
+e353968418.080402
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH.o
+x/Users/seto/dev/stodyn/YH.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/YH.cppf81b6d1e2119b541^cea514222119b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/YH.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH.o YH.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YH.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YH.o36"3337D6EC-505D-4198-A401-AE12062F698E-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM-slip.o /Users/seto/dev/stodyn/YM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968418.081826
+e353968473.277110
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM-slip.o
+x/Users/seto/dev/stodyn/YM-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/YM-slip.cpp620f15222119b541^c5fe4a592119b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/YM-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM-slip.o YM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YM-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM-slip.o36"AE8CEF3C-04D0-42EB-B67F-0F5B0B392BE0-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM.o /Users/seto/dev/stodyn/YM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968473.303149
+e353968479.671643
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM.o
+x/Users/seto/dev/stodyn/YM.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/YM.cpp67b84d592119b541^8600ac5f2119b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/YM.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM.o YM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/YM.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/YM.o36"6482BAEC-0F84-4703-9925-7CF9A774BC3E-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM-slip.o /Users/seto/dev/stodyn/ZM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968479.673134
+e353968481.307318
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM-slip.o
+x/Users/seto/dev/stodyn/ZM-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/ZM-slip.cpp5c72ac5f2119b541^fbac4e612119b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/ZM-slip.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM-slip.o ZM-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ZM-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM-slip.o36"93A09984-1AAD-4345-9334-6276E6E0EEDD-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM.o /Users/seto/dev/stodyn/ZM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968481.308667
+e353968487.872204
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM.o
+x/Users/seto/dev/stodyn/ZM.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/ZM.cpp1d214f612119b541^9163df672119b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/ZM.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM.o ZM.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ZM.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ZM.o36"73E04F58-1573-465A-AAA2-1F9C5B6BE485-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bench.o /Users/seto/dev/stodyn/bench.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968212.098054
+e353968212.180537
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bench.o
+x/Users/seto/dev/stodyn/bench.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Compile /Users/seto/dev/stodyn/bench.cppf43319542019b541^11382e542019b541^---0#0#0#-19%DVTDocumentLocation2@48"file://localhost/Users/seto/dev/stodyn/bench.cpp0000000000000000^917"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bench.o bench.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/bench.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bench.o36"B7E138E0-B6E3-4A7C-A98E-05814C5960D3-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bi-cgstab.o /Users/seto/dev/stodyn/bi-cgstab.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968220.188326
+e353968221.278700
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bi-cgstab.o
+x/Users/seto/dev/stodyn/bi-cgstab.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/seto/dev/stodyn/bi-cgstab.cpp6555305c2019b541^e6ac475d2019b541^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Users/seto/dev/stodyn/bi-cgstab.cpp0000000000000000^933"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bi-cgstab.o bi-cgstab.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/bi-cgstab.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bi-cgstab.o36"0C4C4E4A-77C5-4B96-A3E1-9313D00B9BFD-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bicgstab.o /Users/seto/dev/stodyn/bicgstab.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968218.694448
+e353968218.914632
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bicgstab.o
+x/Users/seto/dev/stodyn/bicgstab.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/seto/dev/stodyn/bicgstab.cpp86e3b15a2019b541^c825ea5a2019b541^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Users/seto/dev/stodyn/bicgstab.cpp0000000000000000^929"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bicgstab.o bicgstab.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/bicgstab.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bicgstab.o36"5C70B0F9-FB27-4163-878E-CE167F379084-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bond.o /Users/seto/dev/stodyn/bond.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968494.871682
+e353968496.531150
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bond.o
+x/Users/seto/dev/stodyn/bond.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Compile /Users/seto/dev/stodyn/bond.cpp1c44df6e2119b541^83f987702119b541^---0#0#0#-19%DVTDocumentLocation2@47"file://localhost/Users/seto/dev/stodyn/bond.cpp0000000000000000^913"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bond.o bond.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/bond.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bond.o36"80E852D9-30AA-45A2-9C92-ADA4F913F461-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bonds.o /Users/seto/dev/stodyn/bonds.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968221.775137
+e353968222.270688
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bonds.o
+x/Users/seto/dev/stodyn/bonds.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Compile /Users/seto/dev/stodyn/bonds.cpp6589c65d2019b541^5d6d455e2019b541^---0#0#0#-19%DVTDocumentLocation2@48"file://localhost/Users/seto/dev/stodyn/bonds.cpp0000000000000000^917"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bonds.o bonds.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/bonds.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/bonds.o36"39A094EA-7F04-4070-9EC2-8CC46ED2D0E6-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg.o /Users/seto/dev/stodyn/cg.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968217.517673
+e353968218.692317
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg.o
+x/Users/seto/dev/stodyn/cg.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/cg.cpp6aa184592019b541^503ab15a2019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/cg.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg.o cg.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/cg.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg.o36"FC88342B-DB10-4199-86CF-8FABAC9BDF15-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg_.o /Users/seto/dev/stodyn/cg_.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968218.916023
+e353968220.151959
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg_.o
+x/Users/seto/dev/stodyn/cg_.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Compile /Users/seto/dev/stodyn/cg_.cpp809aea5a2019b541^9146295c2019b541^---0#0#0#-19%DVTDocumentLocation2@46"file://localhost/Users/seto/dev/stodyn/cg_.cpp0000000000000000^909"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg_.o cg_.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/cg_.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cg_.o36"97842FE2-1CB1-4E3B-A9F8-846680738A09-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cgs.o /Users/seto/dev/stodyn/cgs.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968218.364048
+e353968219.710190
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cgs.o
+x/Users/seto/dev/stodyn/cgs.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Compile /Users/seto/dev/stodyn/cgs.cpp52495d5a2019b541^2fe0b55b2019b541^---0#0#0#-19%DVTDocumentLocation2@46"file://localhost/Users/seto/dev/stodyn/cgs.cpp0000000000000000^909"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cgs.o cgs.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/cgs.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/cgs.o36"ECAEB939-DB9B-4198-B47D-DC7E21E8F592-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/contable.o /Users/seto/dev/stodyn/contable.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968499.231995
+e353968500.646044
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/contable.o
+x/Users/seto/dev/stodyn/contable.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/seto/dev/stodyn/contable.cpp957d3b732119b541^211eb5742119b541^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Users/seto/dev/stodyn/contable.cpp0000000000000000^929"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/contable.o contable.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/contable.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/contable.o36"F2E04EF8-35D0-4EC4-B55B-3438D6FE8FC5-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/demsystem.o /Users/seto/dev/stodyn/demsystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968501.777989
+e353968506.062960
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/demsystem.o
+x/Users/seto/dev/stodyn/demsystem.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/seto/dev/stodyn/demsystem.cpp4e44c7752119b541^e92b107a2119b541^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Users/seto/dev/stodyn/demsystem.cpp0000000000000000^933"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/demsystem.o demsystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/demsystem.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/demsystem.o36"EBA32446-C9BA-4BF8-A906-F6CCF29101A3-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/dgetri_c.o /Users/seto/dev/stodyn/dgetri_c.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968216.314684
+e353968217.516313
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/dgetri_c.o
+x/Users/seto/dev/stodyn/dgetri_c.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/seto/dev/stodyn/dgetri_c.cppefa950582019b541^6b2d84592019b541^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Users/seto/dev/stodyn/dgetri_c.cpp0000000000000000^929"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/dgetri_c.o dgetri_c.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/dgetri_c.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/dgetri_c.o36"CBE0165B-D2B1-4422-B21C-838FDB7471A5-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft-matrix.o /Users/seto/dev/stodyn/ewald-3ft-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968493.573254
+e353968494.449703
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft-matrix.o
+x/Users/seto/dev/stodyn/ewald-3ft-matrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /Users/seto/dev/stodyn/ewald-3ft-matrix.cppcade926d2119b541^ff1f736e2119b541^---0#0#0#-19%DVTDocumentLocation2@59"file://localhost/Users/seto/dev/stodyn/ewald-3ft-matrix.cpp0000000000000000^961"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft-matrix.o ewald-3ft-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ewald-3ft-matrix.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft-matrix.o36"0A8C21CB-7789-4479-A6FA-C189E6137FB0-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft.o /Users/seto/dev/stodyn/ewald-3ft.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968494.451056
+e353968494.870295
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft.o
+x/Users/seto/dev/stodyn/ewald-3ft.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/seto/dev/stodyn/ewald-3ft.cpp5f95736e2119b541^eacbde6e2119b541^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Users/seto/dev/stodyn/ewald-3ft.cpp0000000000000000^933"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft.o ewald-3ft.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ewald-3ft.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3ft.o36"6442BCD8-3557-4ADD-AE5D-A8B578C3E667-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts-matrix.o /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968207.712697
+e353968209.932400
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts-matrix.o
+x/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp1688b64f2019b541^3cc1ee512019b541^---0#0#0#-19%DVTDocumentLocation2@60"file://localhost/Users/seto/dev/stodyn/ewald-3fts-matrix.cpp0000000000000000^965"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts-matrix.o ewald-3fts-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ewald-3fts-matrix.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts-matrix.o36"1E538A70-CAF9-4A43-8C67-37F71BA13E47-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts.o /Users/seto/dev/stodyn/ewald-3fts.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968210.665810
+e353968211.610531
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts.o
+x/Users/seto/dev/stodyn/ewald-3fts.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/seto/dev/stodyn/ewald-3fts.cpp228daa522019b541^904b9c532019b541^---0#0#0#-19%DVTDocumentLocation2@53"file://localhost/Users/seto/dev/stodyn/ewald-3fts.cpp0000000000000000^937"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts.o ewald-3fts.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ewald-3fts.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald-3fts.o36"A6E0ACEC-27C2-4442-AEC4-C86C593FC3B2-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald.o /Users/seto/dev/stodyn/ewald.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968213.515269
+e353968215.411648
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald.o
+x/Users/seto/dev/stodyn/ewald.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Compile /Users/seto/dev/stodyn/ewald.cppb40584552019b541^076269572019b541^---0#0#0#-19%DVTDocumentLocation2@48"file://localhost/Users/seto/dev/stodyn/ewald.cpp0000000000000000^917"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald.o ewald.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ewald.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ewald.o36"C87517CD-74DC-419D-9D81-A735A4CB3A79-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/f.o /Users/seto/dev/stodyn/f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968212.181887
+e353968212.796251
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/f.o
+x/Users/seto/dev/stodyn/f.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Compile /Users/seto/dev/stodyn/f.cpp61a92e542019b541^e2e7cb542019b541^---0#0#0#-19%DVTDocumentLocation2@44"file://localhost/Users/seto/dev/stodyn/f.cpp0000000000000000^901"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/f.o f.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/f.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/f.o36"18B89C0A-D179-4B1F-A739-5F3AFB11E353-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ft.o /Users/seto/dev/stodyn/ft.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968212.539260
+e353968213.513972
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ft.o
+x/Users/seto/dev/stodyn/ft.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Compile /Users/seto/dev/stodyn/ft.cpp49658a542019b541^d49983552019b541^---0#0#0#-19%DVTDocumentLocation2@45"file://localhost/Users/seto/dev/stodyn/ft.cpp0000000000000000^905"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ft.o ft.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/ft.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/ft.o36"12D20C34-F6D2-4324-9C36-32E5FE113484-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/fts.o /Users/seto/dev/stodyn/fts.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968212.797536
+e353968214.268063
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/fts.o
+x/Users/seto/dev/stodyn/fts.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Compile /Users/seto/dev/stodyn/fts.cpp6b44cc542019b541^90a044562019b541^---0#0#0#-19%DVTDocumentLocation2@46"file://localhost/Users/seto/dev/stodyn/fts.cpp0000000000000000^909"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/fts.o fts.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/fts.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/fts.o36"B3695559-CA93-41CE-8980-249759A4EC4D-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/gmres.o /Users/seto/dev/stodyn/gmres.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968219.711497
+e353968220.909985
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/gmres.o
+x/Users/seto/dev/stodyn/gmres.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Compile /Users/seto/dev/stodyn/gmres.cpp183eb65b2019b541^d8f4e85c2019b541^---0#0#0#-19%DVTDocumentLocation2@48"file://localhost/Users/seto/dev/stodyn/gmres.cpp0000000000000000^917"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/gmres.o gmres.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/gmres.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/gmres.o36"89F4BA30-0A25-4894-9D10-A49653BFB902-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/grid.o /Users/seto/dev/stodyn/grid.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968498.100707
+e353968500.421029
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/grid.o
+x/Users/seto/dev/stodyn/grid.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Compile /Users/seto/dev/stodyn/grid.cpp15e219722119b541^f7e66b742119b541^---0#0#0#-19%DVTDocumentLocation2@47"file://localhost/Users/seto/dev/stodyn/grid.cpp0000000000000000^913"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/grid.o grid.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/grid.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/grid.o36"744408E5-149B-4512-BE15-37FC9788AFCC-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/libiter.o /Users/seto/dev/stodyn/libiter.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968210.515890
+e353968210.664458
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/libiter.o
+x/Users/seto/dev/stodyn/libiter.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/libiter.cpp992a84522019b541^0d1aaa522019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/libiter.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/libiter.o libiter.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/libiter.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/libiter.o36"A67D8D31-46B6-499D-A338-2B5EC63D086C-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub-matrix.o /Users/seto/dev/stodyn/lub-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968216.625378
+e353968217.067400
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub-matrix.o
+x/Users/seto/dev/stodyn/lub-matrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/seto/dev/stodyn/lub-matrix.cppc234a0582019b541^9c4f11592019b541^---0#0#0#-19%DVTDocumentLocation2@53"file://localhost/Users/seto/dev/stodyn/lub-matrix.cpp0000000000000000^937"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub-matrix.o lub-matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/lub-matrix.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub-matrix.o36"D7297D2C-397C-4C51-B2B6-EE2BFDB54B97-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub.o /Users/seto/dev/stodyn/lub.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968214.269388
+e353968214.894052
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub.o
+x/Users/seto/dev/stodyn/lub.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Compile /Users/seto/dev/stodyn/lub.cpp4d1045562019b541^8fe2e4562019b541^---0#0#0#-19%DVTDocumentLocation2@46"file://localhost/Users/seto/dev/stodyn/lub.cpp0000000000000000^909"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub.o lub.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/lub.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/lub.o36"4945412B-6D99-452E-9E24-E8328D670EE1-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/main.o /Users/seto/dev/stodyn/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968207.711840
+e353968210.806884
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/main.o
+x/Users/seto/dev/stodyn/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Compile /Users/seto/dev/stodyn/main.cpp2652b64f2019b541^6daece522019b541^---0#0#0#-19%DVTDocumentLocation2@47"file://localhost/Users/seto/dev/stodyn/main.cpp0000000000000000^913"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/main.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/main.o36"2D4542A3-80B7-4513-9023-8FE3E0B30BD8-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/matrix.o /Users/seto/dev/stodyn/matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968215.346240
+e353968216.623897
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/matrix.o
+x/Users/seto/dev/stodyn/matrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Compile /Users/seto/dev/stodyn/matrix.cppcfbc58572019b541^fab79f582019b541^---0#0#0#-19%DVTDocumentLocation2@49"file://localhost/Users/seto/dev/stodyn/matrix.cpp0000000000000000^921"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/matrix.o matrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/matrix.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/matrix.o36"2B5E7879-175C-4975-87F9-99726B32ED34-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/minv-poly.o /Users/seto/dev/stodyn/minv-poly.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968216.030307
+e353968216.313282
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/minv-poly.o
+x/Users/seto/dev/stodyn/minv-poly.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/seto/dev/stodyn/minv-poly.cpp0dde07582019b541^2b3450582019b541^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Users/seto/dev/stodyn/minv-poly.cpp0000000000000000^933"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/minv-poly.o minv-poly.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/minv-poly.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/minv-poly.o36"F37E34E3-AE97-4699-9CAE-9DE3BA9C259D-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/myblas.o /Users/seto/dev/stodyn/myblas.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968221.311870
+e353968221.773828
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/myblas.o
+x/Users/seto/dev/stodyn/myblas.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Compile /Users/seto/dev/stodyn/myblas.cpp4a0b535d2019b541^912ac65d2019b541^---0#0#0#-19%DVTDocumentLocation2@49"file://localhost/Users/seto/dev/stodyn/myblas.cpp0000000000000000^921"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/myblas.o myblas.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/myblas.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/myblas.o36"D5C1C315-7A64-4CD5-B692-412061F62205-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/non-ewald.o /Users/seto/dev/stodyn/non-ewald.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968215.412962
+e353968216.028722
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/non-ewald.o
+x/Users/seto/dev/stodyn/non-ewald.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/seto/dev/stodyn/non-ewald.cppabcf69572019b541^f46b07582019b541^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Users/seto/dev/stodyn/non-ewald.cpp0000000000000000^933"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/non-ewald.o non-ewald.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/non-ewald.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/non-ewald.o36"6DA18E6A-5C74-4DBE-A228-06708377C6CC-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/orthomin.o /Users/seto/dev/stodyn/orthomin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968220.911355
+e353968221.889971
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/orthomin.o
+x/Users/seto/dev/stodyn/orthomin.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/seto/dev/stodyn/orthomin.cpp096de95c2019b541^56d5e35d2019b541^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Users/seto/dev/stodyn/orthomin.cpp0000000000000000^929"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/orthomin.o orthomin.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/orthomin.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/orthomin.o36"EC066569-C80C-4724-BD0C-701373ABF39D-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o /Users/seto/dev/stodyn/particle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968496.532513
+e353968498.099398
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o
+x/Users/seto/dev/stodyn/particle.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/seto/dev/stodyn/particle.cpp276b88702119b541^697219722119b541^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Users/seto/dev/stodyn/particle.cpp0000000000000000^929"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o particle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/particle.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o36"23016C4C-CD05-47C0-AE40-9F0A609F4AB2-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/quaternion.o /Users/seto/dev/stodyn/quaternion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968502.489924
+e353968503.266380
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/quaternion.o
+x/Users/seto/dev/stodyn/quaternion.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/seto/dev/stodyn/quaternion.cpp658a7d762119b541^8c3144772119b541^---0#0#0#-19%DVTDocumentLocation2@53"file://localhost/Users/seto/dev/stodyn/quaternion.cpp0000000000000000^937"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/quaternion.o quaternion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/quaternion.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/quaternion.o36"99483567-68E4-4342-96E2-6439939E0D73-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sbond.o /Users/seto/dev/stodyn/sbond.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968500.657960
+e353968501.776642
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sbond.o
+x/Users/seto/dev/stodyn/sbond.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Compile /Users/seto/dev/stodyn/sbond.cpp268ea8742119b541^9ed1c6752119b541^---0#0#0#-19%DVTDocumentLocation2@48"file://localhost/Users/seto/dev/stodyn/sbond.cpp0000000000000000^917"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sbond.o sbond.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/sbond.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sbond.o36"743F9356-7526-45CC-B0AE-AD7E0312DE50-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sdsystem.o /Users/seto/dev/stodyn/sdsystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968506.295695
+e353968507.348056
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sdsystem.o
+x/Users/seto/dev/stodyn/sdsystem.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/seto/dev/stodyn/sdsystem.cpp78d14b7a2119b541^651a597b2119b541^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Users/seto/dev/stodyn/sdsystem.cpp0000000000000000^929"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sdsystem.o sdsystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/sdsystem.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sdsystem.o36"C464B5E2-FDC3-478A-A2AF-EEF0C471803F-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/smallmatrix.o /Users/seto/dev/stodyn/smallmatrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968501.675533
+e353968502.488582
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/smallmatrix.o
+x/Users/seto/dev/stodyn/smallmatrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compile /Users/seto/dev/stodyn/smallmatrix.cppdd0aad752119b541^f9137d762119b541^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/Users/seto/dev/stodyn/smallmatrix.cpp0000000000000000^941"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/smallmatrix.o smallmatrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/smallmatrix.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/smallmatrix.o36"135F9041-13F2-49B2-82EB-B37955D11779-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sparticle.o /Users/seto/dev/stodyn/sparticle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968500.422383
+e353968501.673952
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sparticle.o
+x/Users/seto/dev/stodyn/sparticle.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Compile /Users/seto/dev/stodyn/sparticle.cppc93e6c742119b541^8f89ac752119b541^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/Users/seto/dev/stodyn/sparticle.cpp0000000000000000^933"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sparticle.o sparticle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/sparticle.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/sparticle.o36"D583EDB6-94C8-4A10-96F7-BEF224C8423A-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/steepest.o /Users/seto/dev/stodyn/steepest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968217.069172
+e353968218.362724
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/steepest.o
+x/Users/seto/dev/stodyn/steepest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Compile /Users/seto/dev/stodyn/steepest.cpp35cf11592019b541^cceb5c5a2019b541^---0#0#0#-19%DVTDocumentLocation2@51"file://localhost/Users/seto/dev/stodyn/steepest.cpp0000000000000000^929"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/steepest.o steepest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/steepest.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/steepest.o36"AD843960-6A2A-4F7C-B79A-9BE9A225B206-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stokes.o /Users/seto/dev/stodyn/stokes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968209.933822
+e353968210.510251
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stokes.o
+x/Users/seto/dev/stodyn/stokes.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Compile /Users/seto/dev/stodyn/stokes.cpp6b2aef512019b541^34a082522019b541^---0#0#0#-19%DVTDocumentLocation2@49"file://localhost/Users/seto/dev/stodyn/stokes.cpp0000000000000000^921"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stokes.o stokes.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/stokes.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stokes.o36"40A16EF3-7E86-4157-83CA-D745463CEFF0-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/system.o /Users/seto/dev/stodyn/system.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968487.873633
+e353968493.571814
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/system.o
+x/Users/seto/dev/stodyn/system.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Compile /Users/seto/dev/stodyn/system.cpp37c5df672119b541^8962926d2119b541^---0#0#0#-19%DVTDocumentLocation2@49"file://localhost/Users/seto/dev/stodyn/system.cpp0000000000000000^921"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/system.o system.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/system.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/system.o36"B033C712-6D73-4EF6-8CED-8DE24ABB5295-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o /Users/seto/dev/stodyn/testParticle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968507.349434
+e353968508.896262
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o
+x/Users/seto/dev/stodyn/testParticle.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/seto/dev/stodyn/testParticle.cpp1591597b2119b541^8c81e57c2119b541^---0#0#0#-19%DVTDocumentLocation2@55"file://localhost/Users/seto/dev/stodyn/testParticle.cpp0000000000000000^945"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o testParticle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/testParticle.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o36"726BC0AE-16C2-49E9-B71C-E70CFEE312FB-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSimulation.o /Users/seto/dev/stodyn/testSimulation.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968504.987160
+e353968506.277265
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSimulation.o
+x/Users/seto/dev/stodyn/testSimulation.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Compile /Users/seto/dev/stodyn/testSimulation.cpp91d2fc782119b541^cf144a7a2119b541^---0#0#0#-19%DVTDocumentLocation2@57"file://localhost/Users/seto/dev/stodyn/testSimulation.cpp0000000000000000^953"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSimulation.o testSimulation.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/testSimulation.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSimulation.o36"D7700C46-1FC0-414B-8E38-7F4C5E56E864-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSystem.o /Users/seto/dev/stodyn/testSystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968506.064299
+e353968508.982573
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSystem.o
+x/Users/seto/dev/stodyn/testSystem.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Compile /Users/seto/dev/stodyn/testSystem.cpp3a91107a2119b541^76a8fe7c2119b541^---0#0#0#-19%DVTDocumentLocation2@53"file://localhost/Users/seto/dev/stodyn/testSystem.cpp0000000000000000^937"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSystem.o testSystem.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/testSystem.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testSystem.o36"C01C737B-6233-4D39-A3A1-4F9DCC660D04-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/torqueBlanceMotion.o /Users/seto/dev/stodyn/torqueBlanceMotion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968503.267721
+e353968504.985819
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/torqueBlanceMotion.o
+x/Users/seto/dev/stodyn/torqueBlanceMotion.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/seto/dev/stodyn/torqueBlanceMotion.cpp22a644772119b541^fdf803792119b541^---0#0#0#-19%DVTDocumentLocation2@61"file://localhost/Users/seto/dev/stodyn/torqueBlanceMotion.cpp0000000000000000^969"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/torqueBlanceMotion.o torqueBlanceMotion.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/torqueBlanceMotion.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/torqueBlanceMotion.o36"226B05C8-3B66-47D0-B0EB-D658AF9621F1-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/two-body-res.o /Users/seto/dev/stodyn/two-body-res.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968214.895440
+e353968215.344228
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/two-body-res.o
+x/Users/seto/dev/stodyn/two-body-res.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/seto/dev/stodyn/two-body-res.cpp465be5562019b541^eb1f58572019b541^---0#0#0#-19%DVTDocumentLocation2@55"file://localhost/Users/seto/dev/stodyn/two-body-res.cpp0000000000000000^945"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/two-body-res.o two-body-res.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/two-body-res.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/two-body-res.o36"692453D4-1A30-4F00-BE51-5872DE697460-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody-slip.o /Users/seto/dev/stodyn/twobody-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968211.611864
+e353968212.537866
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody-slip.o
+x/Users/seto/dev/stodyn/twobody-slip.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Compile /Users/seto/dev/stodyn/twobody-slip.cpp27bc9c532019b541^73488a542019b541^---0#0#0#-19%DVTDocumentLocation2@55"file://localhost/Users/seto/dev/stodyn/twobody-slip.cpp0000000000000000^945"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody-slip.o twobody-slip.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/twobody-slip.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody-slip.o36"00AC21C3-AC53-4F77-9ABD-01375B5D2EEF-
+
+CCompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody.o /Users/seto/dev/stodyn/twobody.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s353968210.819939
+e353968212.096698
+r1
+xCompileC
+xbuild/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody.o
+x/Users/seto/dev/stodyn/twobody.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /Users/seto/dev/stodyn/twobody.cppe146d2522019b541^40c218542019b541^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/Users/seto/dev/stodyn/twobody.cpp0000000000000000^925"CompileC build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody.o twobody.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/seto/dev/stodyn    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O3 -mdynamic-no-pic -DOSX=1 -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility=hidden -fvisibility-inlines-hidden -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/stodyn.hmap -I/Users/seto/dev/stodyn/build/Debug/include -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources/x86_64 -I/Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/DerivedSources -F/Users/seto/dev/stodyn/build/Debug -c /Users/seto/dev/stodyn/twobody.cpp -o /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/twobody.o36"3CE90398-9EB7-461E-9A2B-42246391A0AA-
+
+CLd /Users/seto/dev/stodyn/build/Debug/stodyn normal x86_64
+s353968510.433746
+e353968513.833710
+r0
+xLd
+x/Users/seto/dev/stodyn/build/Debug/stodyn
+xnormal
+xx86_64
+old: duplicate symbol Particle::generateBond()      in /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o and /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o for architecture x86_64
+ocollect2: ld returned 1 exit status
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Link /Users/seto/dev/stodyn/build/Debug/stodynf31e6f7e2119b541^7e18d5812119b541^-406"ld: duplicate symbol Particle::generateBond()      in /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o and /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o for architecture x86_64collect2: ld returned 1 exit statusCommand /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 failed with exit code 12(21%IDEActivityLogMessage2@269"Duplicate symbol Particle::generateBond()      in /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/testParticle.o and /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/particle.o for architecture x86_64-353968513#0#274#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#31"Apple Mach-O Linker (ld) Notice--2@95"Command /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 failed with exit code 1-353968513#18446744073709551615#0#-2#--30"Apple Mach-O Linker (ld) Error--0#0#0#--555"Ld build/Debug/stodyn normal x86_64    cd /Users/seto/dev/stodyn    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -L/Users/seto/dev/stodyn/build/Debug -L/System/Library/Frameworks/Accelerate.framework -F/Users/seto/dev/stodyn/build/Debug -filelist /Users/seto/dev/stodyn/build/stodyn.build/Debug/stodyn.build/Objects-normal/x86_64/stodyn.LinkFileList -mmacosx-version-min=10.7 /System/Library/Frameworks/Accelerate.framework/Accelerate -o /Users/seto/dev/stodyn/build/Debug/stodyn36"BC429E62-8F9A-4613-A134-9C5E1F72E4E5-
+
+CPBXCp build/Debug/stodyn /Users/seto/bin/stodyn
+r0
+
