@@ -71,13 +71,13 @@
 		D92AB3B412658EFE0071CC6C /* sparticle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D92AB3B312658EFE0071CC6C /* sparticle.cpp */; };
 		D92AB3B912658F070071CC6C /* sbond.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D92AB3B812658F070071CC6C /* sbond.cpp */; };
 		D93153C3117C9FCD0072DEBF /* system.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D93153C2117C9FCD0072DEBF /* system.cpp */; };
+		D93997FF217D9C6400FA418A /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D93997FE217D9C6400FA418A /* Accelerate.framework */; };
 		D971CAEE137A920C00044631 /* stodyn in CopyFiles */ = {isa = PBXBuildFile; fileRef = 8DD76F6C0486A84900D96B5E /* stodyn */; };
 		D98A49AC11E4C6D10080512C /* bond.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D98A49A811E4C6D10080512C /* bond.cpp */; };
 		D98A49AD11E4C6D10080512C /* particle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D98A49AB11E4C6D10080512C /* particle.cpp */; };
 		D98A4A0411E4CAA80080512C /* grid.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D98A4A0211E4CAA80080512C /* grid.cpp */; };
 		D98A4A0911E4CACA0080512C /* contable.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D98A4A0811E4CACA0080512C /* contable.cpp */; };
 		D9BBF923140542C6004436C7 /* quaternion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D9BBF922140542C6004436C7 /* quaternion.cpp */; };
-		D9D3A77318C391F200F0E5D5 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D3A77218C391F200F0E5D5 /* Accelerate.framework */; };
 		D9D9CD6913E59C67002809C4 /* demsystem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D9D9CD6813E59C67002809C4 /* demsystem.cpp */; };
 /* End PBXBuildFile section */
 
@@ -205,6 +205,7 @@
 		D92AB3B812658F070071CC6C /* sbond.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = sbond.cpp; sourceTree = "<group>"; };
 		D93153C1117C9FCD0072DEBF /* system.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = system.h; sourceTree = "<group>"; };
 		D93153C2117C9FCD0072DEBF /* system.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = system.cpp; sourceTree = "<group>"; };
+		D93997FE217D9C6400FA418A /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		D9508E9811A6827E00283DEB /* fem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = fem.h; sourceTree = "<group>"; };
 		D98A49A811E4C6D10080512C /* bond.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = bond.cpp; sourceTree = "<group>"; };
 		D98A49A911E4C6D10080512C /* bond.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bond.h; sourceTree = "<group>"; };
@@ -218,7 +219,6 @@
 		D9A0BC1D118EF3C700B4114F /* my_utilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = my_utilities.h; sourceTree = "<group>"; };
 		D9BBF922140542C6004436C7 /* quaternion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = quaternion.cpp; sourceTree = "<group>"; };
 		D9BBF924140542E1004436C7 /* quaternion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = quaternion.h; sourceTree = "<group>"; };
-		D9D3A77218C391F200F0E5D5 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		D9D9CD6813E59C67002809C4 /* demsystem.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = demsystem.cpp; sourceTree = "<group>"; };
 		D9D9CD6A13E59C84002809C4 /* demsystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = demsystem.h; sourceTree = "<group>"; };
 		D9DBE8DB11E4C1C00085CED8 /* dem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dem.h; sourceTree = "<group>"; };
@@ -229,7 +229,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D9D3A77318C391F200F0E5D5 /* Accelerate.framework in Frameworks */,
+				D93997FF217D9C6400FA418A /* Accelerate.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,10 +239,10 @@
 		08FB7794FE84155DC02AAC07 /* stodyn */ = {
 			isa = PBXGroup;
 			children = (
-				D9D3A77218C391F200F0E5D5 /* Accelerate.framework */,
 				C6859E8C029090F304C91782 /* Documentation */,
 				1AB674ADFE9D54B511CA2CBB /* Products */,
 				08FB7795FE84155DC02AAC07 /* Source */,
+				D93997FD217D9C6400FA418A /* Frameworks */,
 			);
 			name = stodyn;
 			sourceTree = "<group>";
@@ -421,6 +421,14 @@
 			name = Test;
 			sourceTree = "<group>";
 		};
+		D93997FD217D9C6400FA418A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D93997FE217D9C6400FA418A /* Accelerate.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		D9DBE89511E475850085CED8 /* DEM */ = {
 			isa = PBXGroup;
 			children = (
@@ -587,6 +595,7 @@
 					"$(inherited)",
 					"\"$(SDKROOT)$(SYSTEM_LIBRARY_DIR)/Frameworks/Accelerate.framework\"",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				OBJROOT = build;
 				PRODUCT_NAME = stodyn;
 				SKIP_INSTALL = NO;
@@ -610,6 +619,7 @@
 					"$(inherited)",
 					"\"$(SDKROOT)$(SYSTEM_LIBRARY_DIR)/Frameworks/Accelerate.framework\"",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				OBJROOT = build;
 				PREBINDING = "";
 				PRODUCT_NAME = stodyn;

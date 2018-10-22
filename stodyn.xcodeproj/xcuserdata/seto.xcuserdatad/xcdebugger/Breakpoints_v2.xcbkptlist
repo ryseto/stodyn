@@ -17,7 +17,7 @@
             startingLineNumber = "120"
             endingLineNumber = "120"
             landmarkName = "Bond::chPointer(int i, int particle_num)"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -33,7 +33,7 @@
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "74"
             endingLineNumber = "74"
-            landmarkName = "class Bond"
+            landmarkName = "Bond"
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
@@ -110,7 +110,7 @@
             startingLineNumber = "710"
             endingLineNumber = "710"
             landmarkName = "DEMsystem::calcTotalFTS()"
-            landmarkType = "5">
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
